@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+}
+img {
+    max-width: 300px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #007BFF;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #0056b3;
+}
+#identity {
+    display: none;
+    margin-top: 20px;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+#container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
